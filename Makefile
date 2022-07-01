@@ -5,7 +5,7 @@ main.o: main.cpp
 	g++ -std=c++17 main.cpp -o main.o -c
 
 clean:
-	rm -f *.o 
+	rm -f *.o creator.x
 
 
 
