@@ -1,6 +1,8 @@
 # RepoCreator
 
 # Summary
+Creates local repo directory and creates a remote repo. 
+
 
 <div>
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/andykr1k/RepoCreator?&style=for-the-badge"/>
